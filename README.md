@@ -5,6 +5,7 @@
 2. After downloading them Unzip the files you downloaded one by one.
 
 3. Copy the bower_components folder and Paste it inside the votesystem folder.
+(The bower_components folder contains bootstraps that are needed for our voting system. As its file size is bigger than the file size limit on github, I have to seperate it on the votesystem folder.)
 
 4. Open your PHPmyadmin page and create a database named 'votesystem'.
 
